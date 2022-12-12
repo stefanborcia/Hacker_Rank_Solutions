@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lets_Review", "Let\Lets_Review.csproj", "{083459DA-4427-40F2-80BE-983BCAAEC7A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{A53E6764-0B37-4E41-817B-8EC1146107FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{083459DA-4427-40F2-80BE-983BCAAEC7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{083459DA-4427-40F2-80BE-983BCAAEC7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{083459DA-4427-40F2-80BE-983BCAAEC7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53E6764-0B37-4E41-817B-8EC1146107FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53E6764-0B37-4E41-817B-8EC1146107FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53E6764-0B37-4E41-817B-8EC1146107FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53E6764-0B37-4E41-817B-8EC1146107FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
