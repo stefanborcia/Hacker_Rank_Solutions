@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{ED959858-A472-44BD-A893-8888280ED516}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Test3TRryplets</RootNamespace>
-    <AssemblyName>Test3TRryplets</AssemblyName>
+    <RootNamespace>Triplets_Consecutive</RootNamespace>
+    <AssemblyName>Triplets_Consecutive</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

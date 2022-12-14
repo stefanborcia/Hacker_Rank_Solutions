@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{083459DA-4427-40F2-80BE-983BCAAEC7A1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Let</RootNamespace>
-    <AssemblyName>Let</AssemblyName>
+    <RootNamespace>Lets_Review</RootNamespace>
+    <AssemblyName>Lets_Review</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
