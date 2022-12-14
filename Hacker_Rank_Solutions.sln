@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripletsConsecutive", "Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial_Of_Number", "Factorial_Of_Number\Factorial_Of_Number.csproj", "{D3F35388-30C7-4C55-AEB4-1046BEFC7F2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarray_Division", "Subarray_Division\Subarray_Division.csproj", "{A739A730-1E83-42F8-ADDE-E9A0410F40CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{D3F35388-30C7-4C55-AEB4-1046BEFC7F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F35388-30C7-4C55-AEB4-1046BEFC7F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F35388-30C7-4C55-AEB4-1046BEFC7F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A739A730-1E83-42F8-ADDE-E9A0410F40CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A739A730-1E83-42F8-ADDE-E9A0410F40CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A739A730-1E83-42F8-ADDE-E9A0410F40CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A739A730-1E83-42F8-ADDE-E9A0410F40CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
