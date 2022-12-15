@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "Divisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome_String_Int", "Palindrome_String_Int\Palindrome_String_Int.csproj", "{7636E08C-3E3F-4C1F-AC9F-C6381A158C63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales_By_Match", "Sales_By_Match\Sales_By_Match.csproj", "{5076128A-6146-450B-AB05-0BD6B625DBB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{7636E08C-3E3F-4C1F-AC9F-C6381A158C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7636E08C-3E3F-4C1F-AC9F-C6381A158C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7636E08C-3E3F-4C1F-AC9F-C6381A158C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5076128A-6146-450B-AB05-0BD6B625DBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5076128A-6146-450B-AB05-0BD6B625DBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5076128A-6146-450B-AB05-0BD6B625DBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5076128A-6146-450B-AB05-0BD6B625DBB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
