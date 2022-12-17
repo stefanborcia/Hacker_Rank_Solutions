@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome_String_Int", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales_By_Match", "Sales_By_Match\Sales_By_Match.csproj", "{5076128A-6146-450B-AB05-0BD6B625DBB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{5076128A-6146-450B-AB05-0BD6B625DBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5076128A-6146-450B-AB05-0BD6B625DBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5076128A-6146-450B-AB05-0BD6B625DBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
