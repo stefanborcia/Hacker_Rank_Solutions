@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales_By_Match", "Sales_By_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Classes", "Abstract_Classes\Abstract_Classes.csproj", "{6E7698EC-E86E-4F34-BE3F-A69DDDE9F1E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4C5EB8C-8218-4F67-B5CD-AEAF0D718A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7698EC-E86E-4F34-BE3F-A69DDDE9F1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7698EC-E86E-4F34-BE3F-A69DDDE9F1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7698EC-E86E-4F34-BE3F-A69DDDE9F1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7698EC-E86E-4F34-BE3F-A69DDDE9F1E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
