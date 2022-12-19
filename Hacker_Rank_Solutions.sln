@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Classes", "Abstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat_Mouse", "Cat_Mouse\Cat_Mouse.csproj", "{C627D557-FEEB-4EAC-984C-87AC44D78311}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope", "Scope\Scope.csproj", "{C6DCF528-7410-4814-94F0-4FAAA2FA2793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{C627D557-FEEB-4EAC-984C-87AC44D78311}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C627D557-FEEB-4EAC-984C-87AC44D78311}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C627D557-FEEB-4EAC-984C-87AC44D78311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DCF528-7410-4814-94F0-4FAAA2FA2793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DCF528-7410-4814-94F0-4FAAA2FA2793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DCF528-7410-4814-94F0-4FAAA2FA2793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DCF528-7410-4814-94F0-4FAAA2FA2793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
