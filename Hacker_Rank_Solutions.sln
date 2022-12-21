@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing_Book", "Drawing_Boo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions_StringToInteger", "Exceptions_StringToInteger\Exceptions_StringToInteger.csproj", "{357980FC-BC64-4ABD-92A6-CE090FB37B89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bill_Division", "Bill_Division\Bill_Division.csproj", "{BD94AA55-0B81-4621-B150-15926519810B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{357980FC-BC64-4ABD-92A6-CE090FB37B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{357980FC-BC64-4ABD-92A6-CE090FB37B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{357980FC-BC64-4ABD-92A6-CE090FB37B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD94AA55-0B81-4621-B150-15926519810B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD94AA55-0B81-4621-B150-15926519810B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD94AA55-0B81-4621-B150-15926519810B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD94AA55-0B81-4621-B150-15926519810B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
