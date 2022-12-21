@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked_List", "Linked_List\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing_Book", "Drawing_Book\Drawing_Book.csproj", "{A5028777-A738-4008-9254-F65B0E309C26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions_StringToInteger", "Exceptions_StringToInteger\Exceptions_StringToInteger.csproj", "{357980FC-BC64-4ABD-92A6-CE090FB37B89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{A5028777-A738-4008-9254-F65B0E309C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5028777-A738-4008-9254-F65B0E309C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5028777-A738-4008-9254-F65B0E309C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357980FC-BC64-4ABD-92A6-CE090FB37B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357980FC-BC64-4ABD-92A6-CE090FB37B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357980FC-BC64-4ABD-92A6-CE090FB37B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357980FC-BC64-4ABD-92A6-CE090FB37B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
