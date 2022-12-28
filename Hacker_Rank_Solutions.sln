@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{F4505D19-9AB9-433D-BD42-3E1FE3D365B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{88F0585A-E51F-46D3-8418-69FAC2DD6527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Search_Threes", "Binary_Search_Threes\Binary_Search_Threes.csproj", "{E9035889-0CCC-4FAA-9FCA-36E6491F79E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{F4505D19-9AB9-433D-BD42-3E1FE3D365B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4505D19-9AB9-433D-BD42-3E1FE3D365B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4505D19-9AB9-433D-BD42-3E1FE3D365B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F0585A-E51F-46D3-8418-69FAC2DD6527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F0585A-E51F-46D3-8418-69FAC2DD6527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F0585A-E51F-46D3-8418-69FAC2DD6527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F0585A-E51F-46D3-8418-69FAC2DD6527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9035889-0CCC-4FAA-9FCA-36E6491F79E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9035889-0CCC-4FAA-9FCA-36E6491F79E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9035889-0CCC-4FAA-9FCA-36E6491F79E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9035889-0CCC-4FAA-9FCA-36E6491F79E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
