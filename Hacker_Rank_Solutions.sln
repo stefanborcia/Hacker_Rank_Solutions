@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions_StringToInteger"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bill_Division", "Bill_Division\Bill_Division.csproj", "{BD94AA55-0B81-4621-B150-15926519810B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Stack_Palindrome", "Queue_Stack_Palindrome\Queue_Stack_Palindrome.csproj", "{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{BD94AA55-0B81-4621-B150-15926519810B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD94AA55-0B81-4621-B150-15926519810B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD94AA55-0B81-4621-B150-15926519810B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
