@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bill_Division", "Bill_Divis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Stack_Palindrome", "Queue_Stack_Palindrome\Queue_Stack_Palindrome.csproj", "{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{72569FE2-B65D-4278-AD45-124DE950EA82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE7E8A5-47D6-4521-8C72-623D2EABE2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72569FE2-B65D-4278-AD45-124DE950EA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72569FE2-B65D-4278-AD45-124DE950EA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72569FE2-B65D-4278-AD45-124DE950EA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72569FE2-B65D-4278-AD45-124DE950EA82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
