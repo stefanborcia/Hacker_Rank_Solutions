@@ -7,6 +7,8 @@ class Solution
     {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
 
+        Console.WriteLine("You need to enter in this format: DD MM YYYY");
+
         string[] actually = Console.ReadLine().Split(' ');
         int actuallyDay = int.Parse(actually[0]);
         int actuallyMonth = int.Parse(actually[1]);
@@ -27,5 +29,7 @@ class Solution
         }
 
         Console.WriteLine(fine);
+
+        Console.ReadKey();
     }
 }
