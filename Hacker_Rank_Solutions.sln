@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Search_Threes", "Bin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST_Level-Order_Traversal", "BST_Level-Order_Traversal\BST_Level-Order_Traversal.csproj", "{A9DE65F3-05DF-46BA-9889-02C455584B3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_Logic", "Nested_Logic\Nested_Logic.csproj", "{B2889F13-4EB4-413A-A496-A2077AE80B2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{A9DE65F3-05DF-46BA-9889-02C455584B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9DE65F3-05DF-46BA-9889-02C455584B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9DE65F3-05DF-46BA-9889-02C455584B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2889F13-4EB4-413A-A496-A2077AE80B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2889F13-4EB4-413A-A496-A2077AE80B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2889F13-4EB4-413A-A496-A2077AE80B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2889F13-4EB4-413A-A496-A2077AE80B2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
