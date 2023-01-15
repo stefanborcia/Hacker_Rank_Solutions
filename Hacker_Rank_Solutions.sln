@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32929.385
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_World", "Hacker_Rankl_Solution\Hello_World.csproj", "{93A94B97-FD0F-486D-B58E-C4DFDED2737D}"
 EndProject
@@ -66,6 +66,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_Logic", "Nested_Logic\Nested_Logic.csproj", "{B2889F13-4EB4-413A-A496-A2077AE80B2D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful_Days_at_the_Movies", "Beautiful_Days_at_the_Movies\Beautiful_Days_at_the_Movies.csproj", "{0DF44B6C-8653-480A-B064-A0305710171C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronic_Shop", "Electronic_Shop\Electronic_Shop.csproj", "{5ABFAB10-F5D2-4B83-B397-6DBF07B56047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{0DF44B6C-8653-480A-B064-A0305710171C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DF44B6C-8653-480A-B064-A0305710171C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DF44B6C-8653-480A-B064-A0305710171C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABFAB10-F5D2-4B83-B397-6DBF07B56047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABFAB10-F5D2-4B83-B397-6DBF07B56047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABFAB10-F5D2-4B83-B397-6DBF07B56047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABFAB10-F5D2-4B83-B397-6DBF07B56047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
